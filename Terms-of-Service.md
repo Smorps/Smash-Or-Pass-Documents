@@ -49,7 +49,7 @@ By accessing or using the Service You agree to be bound by these Terms and Condi
 You represent that you are over the age of 18. The Proprietor does not permit those under 18 to use the Service.
 
 
-Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Proprietor. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Proprietor. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
 
 
 
@@ -159,7 +159,7 @@ You agree that the original English text shall prevail in the case of a dispute.
 
 We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
 
-By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
+By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, you must immediately stop using the Service.
 
 # Contact Us
 
