@@ -163,8 +163,8 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 # Contact Us
 
-If you have any questions about these Terms and Conditions, You can contact us:
+If you have any questions about these Terms and Conditions, You can contact the Proprietor:
 
 
 
-- By visiting this page on our website: [https://discord.gg/kE2BRPH8](https://discord.gg/kE2BRPH8)
+- By joining this community Discord server: [https://discord.gg/kE2BRPH8](https://discord.gg/kE2BRPH8)
