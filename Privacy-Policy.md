@@ -8,7 +8,7 @@ The Smash or Pass bot (herein referred to as “the bot”)  requires the collec
 
 
 
-- The Discord user ID of any users that use one of the bot’s slash commands or interact with any of the buttons it generates
+- The Discord username of any users that use one of the bot’s slash commands or interact with any of the buttons it generates
 - The Discord guild ID of any server on which the bot operates
 
 
