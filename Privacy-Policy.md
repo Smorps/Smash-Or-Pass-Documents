@@ -27,4 +27,6 @@ Questions related to the Privacy Policy may be directed to the Proprietor:
 
 
 By email: smashorpassbot@gmail.com
+
+
 By request on the community Discord server: https://discord.gg/SUyXYV9BN6
