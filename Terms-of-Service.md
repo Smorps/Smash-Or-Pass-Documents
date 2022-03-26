@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-Last updated: January 30, 2022
+Last updated: March 25, 2022
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -167,4 +167,5 @@ If you have any questions about these Terms and Conditions, You can contact the 
 
 
 
-- By joining this community Discord server: [https://discord.gg/kE2BRPH8](https://discord.gg/kE2BRPH8)
+- By email at smashorpassbot@gmail.com
+- By joining this community Discord server: [https://discord.gg/SUyXYV9BN6](https://discord.gg/SUyXYV9BN6)
