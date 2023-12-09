@@ -1,10 +1,23 @@
-# Smash-Or-Pass
-Smash or Pass is a NSFW Discord bot with the primary function of initiating and managing anonymous polls via slash commands. Each poll is an embedded message that asks the channel members whether they would “smash or pass” the poll subject in spite of a randomly selected, negative circumstance. There are over 90 such circumstances that may be randomly selected. Server members, excluding the poll initiator, may then vote by clicking the poll’s **“smash”** button or **“pass”** button; the poll is then updated to reflect the current vote total. Server members may not vote on the same poll more than once or change their vote after their initial submission.
+# Smash or Pass Discord Bot
 
-There are two types of polls that may be initiated - **/smash** polls and **/specialsmash** polls. **/smash** polls take the initiator of the command as the poll subject. **/specialsmash** requires the initiator of the command to input a name and an image URL to represent the poll subject.
+## Introduction
+The world's favorite voting game 😌 Add this fun bot to your server to play smash or pass, send love letters, and scientifically prove you're hotter than your friends 🔥🔥🔥
 
-Along with the two poll commands, there are the additional slash commands: **/scorecard** and **/help**. **/scorecard** sends the initiator of the command a leaderboard with the top 3 poll subjects as an ephemeral message. Poll subject scores are determined by their number of smash votes multiplied by 2, minus their number of pass votes and then multiplied by 100. **/help** sends its initiator a list of all of the bot’s commands as an ephemeral message.
+## Invite
+To add the Smash or Pass bot to your Discord server, [click here](https://discord.com/api/oauth2/authorize?client_id=912882119276109844&permissions=2147493888&scope=bot+applications.commands).
 
-Smash or Pass was created solely for entertainment purposes and should only be used in accordance with Discord policies and guidelines. The bot may be invited to your Discord server from these sources:
-https://disforge.com/bot/2188-smash-or-pass
-https://discords.com/bots/bot/912882119276109844 
+## Commands
+- `/custom_smash`: Set a custom name and image for your smash or pass poll.
+- `/gallery`: View previous custom smash polls.
+- `/help`: Display a list of commands and helpful info.
+- `/love_letter`: Receive randomly selected, anonymous love letters.
+- `/profile`: See your server stats. Points show how hot others find you. Smorps are awarded for interactions.
+- `/scorecard`: Display the smash or pass leaderboard to see who is the hottest.
+- `/search_engine`: Choose which search engine to use for custom_smash images.
+- `/smash`: Start a smash or pass poll.
+
+## Support
+If you encounter any issues or have any questions, please [contact support](https://discord.gg/SUyXYV9BN6).
+
+## Patreon
+Support Smash or Pass's development and unlock premium commands by becoming a patron [here]([link_to_contribution_guidelines](https://www.patreon.com/smashorpass)https://www.patreon.com/smashorpass).
