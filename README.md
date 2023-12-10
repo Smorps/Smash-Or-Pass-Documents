@@ -20,4 +20,4 @@ To add the Smash or Pass bot to your Discord server, [click here](https://discor
 If you encounter any issues or have any questions, please [contact support](https://discord.gg/SUyXYV9BN6).
 
 ## Patreon
-Support Smash or Pass's development and unlock premium commands by becoming a patron [here]([link_to_contribution_guidelines](https://www.patreon.com/smashorpass)https://www.patreon.com/smashorpass).
+Support Smash or Pass's development and unlock premium commands by becoming a patron [here](https://www.patreon.com/smashorpass).
