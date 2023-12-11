@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-Last updated: March 25, 2022
+Last updated: December 10, 2023
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -85,6 +85,11 @@ Our trademarks and trade dress may not be used in connection with any product or
 # Your Feedback to Us
 
 You assign all rights, title and interest in any Feedback You provide the Proprietor. If for any reason such assignment is ineffective, You agree to grant the Proprietor a non-exclusive, perpetual, irrevocable, royalty free, worldwide right and license to use, reproduce, disclose, sub-license, distribute, modify and exploit such Feedback without restriction.
+
+
+# Data Sharing with Third-Party Services
+
+Certain features of the Application may require the transmission of user data to third-party services. By using these features, You consent to such data sharing as described in Our Privacy Policy.
 
 
 # Links to Other Websites
