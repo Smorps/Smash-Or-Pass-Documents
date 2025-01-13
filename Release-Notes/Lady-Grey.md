@@ -51,6 +51,6 @@ and _again_, and _again_, and _again_, and _again_, and _again_
 * Resolved a common error that prevented the bot from working when added to a new server
 
 ## The future 🚀
-As I've mentioned, one of the best things about this update is that it lays the groundwork for even more great updates in the future! This is largely due to the support of two of my friends who recently stepped in
-to help me with development as well as to the support of all of you! Thank you for sticking with me if you've been here for a while, and thank you for checking the bot out if you're new. I'm looking forward to
+As I've mentioned, one of the best things about this update is that it lays the groundwork for even more great updates in the future! This is largely due to the support of two of my friends, who recently stepped in
+to help me with development, as well as the support from all of you! Thank you for sticking with me if you've been here for a while, and thank you for checking the bot out if you're new. I'm looking forward to
 releasing the next updates that are in the works, and, as always, keep smashing 😈
