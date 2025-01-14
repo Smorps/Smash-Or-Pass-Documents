@@ -1,4 +1,4 @@
-# SMORPS Release: Lady Grey
+# SMORPS Release: Lady Grey ☕
 January 13, 2025
 
 Hello, smashers and passers! _This is a momentous release._ Almost 3 years since Smash or Pass was released on January 25, 2022, this is by far the best update yet. 
