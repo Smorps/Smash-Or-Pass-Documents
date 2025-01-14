@@ -14,9 +14,9 @@ To add the Smash or Pass bot to your Discord server, [click here](https://discor
 😈 **/smash:** Access the Smash or Pass game menu to see your stats and to start a poll
 
 ## Features
-🪞 **Smash or Pass (You):** Start a smash or pass poll with yourself as the subject
+🔥 **Smash or Pass (You):** Start a smash or pass poll with yourself as the subject
 
-🎨 **Smash or Pass (Custom):** Create your own smash or pass poll with a custom name and image
+✏️ **Smash or Pass (Custom):** Create your own smash or pass poll with a custom name and image
 
 🎲 **Smash or Pass (Random):** Start a smash or pass poll with a random character from Danbooru
 
