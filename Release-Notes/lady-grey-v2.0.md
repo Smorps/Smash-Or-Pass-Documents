@@ -29,7 +29,8 @@ Also, the **premium links** on the smash menu have been grouped together under o
 
 ## 🩷💗 Onto Year 4 💗🩷
 Thank you again - whether you're just finding the bot or have been around since the beginning 🙇‍♂️ I'm still amazed by how much this has grown and continues to grow every year. 
-I sincerely hope you enjoy these updates, and please let me know if you run into any issues or have any feedback in our [🚧support channel](https://discord.com/channels/934694840162193479/934865004732239943).
+I sincerely hope you enjoy these updates, and please let me know if you run into any issues or have any feedback in our 🚧support channel on
+the [community server](https://discord.gg/SUyXYV9BN6).
 And if you do enjoy the bot and want to keep it going into year 5, please consider becoming a [patron](https://www.patreon.com/smashorpass) 
 or buying a [server pass](https://discord.com/discovery/applications/912882119276109844/store) 🙏 Your support is what keeps this going!
 
