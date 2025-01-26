@@ -9,7 +9,7 @@ Ok, hear me out - this is a great feature. Why? Because if you like random polls
 So you'll probably also like seeing those characters in their most attractive angles too 😍 The images are still sourced from Danbooru, but to make this work, each one had to be handpicked 👩‍🌾🧺 
 to ensure we hit that perfect balance of _hot_ 🌶️ but not _too hot_ 🌋 _Remember - Smash or Pass is for good boys and girls_ 👼
 
-Right now we have about **400 characters** ready to grace ✨ your eyes 👁️👁️ with this feature, and _more_ are on the way 🛬 So you should really check this one out. 
+Right now we have about **500 characters** ready to grace ✨ your eyes 👁️👁️ with this feature, and _more_ are on the way 🛬 So you should really check this one out. 
 To access our premium crop of pics, simply toggle the Danbooru maturity setting under ⚙️OPTIONS to 'sensitive'. You're also going to need ⭐**premium access**⭐, 
 so hop on over to the [Patreon](https://www.patreon.com/smashorpass) 
 or give a gift of your own by buying a [server pass](https://discord.com/discovery/applications/912882119276109844/store) for you and the homies 👨‍👩‍👧‍👦
