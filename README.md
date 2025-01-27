@@ -44,3 +44,7 @@ Support Smash or Pass's development and unlock premium commands by becoming a [p
 
 ## Support
 If you encounter any issues or have any questions, please [contact support](https://discord.gg/SUyXYV9BN6).
+
+<a href="https://top.gg/bot/912882119276109844">
+  <img src="https://top.gg/api/widget/912882119276109844.svg">
+</a>
