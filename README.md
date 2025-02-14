@@ -9,7 +9,9 @@ To add the Smash or Pass bot to your Discord server, [click here](https://discor
 ## Commands
 📖 **/help:** Display a list of commands and helpful info
 
-💌 **/love_letter:** Receive randomly selected, anonymous love letters
+📬 **/open_love_letter:** Open anonymous love letters
+
+💌 **/send_love_letter:** Send anonymous love letters
 
 😈 **/smash:** Access the Smash or Pass game menu to see your stats and to start a poll
 
@@ -29,7 +31,11 @@ To add the Smash or Pass bot to your Discord server, [click here](https://discor
 ## Premium Features
 🚫 **Ad removal:** Turn off Top.gg vote requirements
 
+🍑 **Spicy pics:** Return curated, 'sensitive' pictures from Danbooru in random polls
+
 💗 **Increased daily usage:** Increase the maximum times you can use Custom and Random polls
+
+🖊️ **Pen names:** Send love letters using custom pen names
 
 🔍 **Search engine select:** Choose which search engine to use for custom polls (Danbooru or Google)
 
