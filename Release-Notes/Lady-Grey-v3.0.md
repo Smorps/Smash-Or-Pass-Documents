@@ -17,7 +17,7 @@ updated for clarity 📬
 ## 🎲 Random Poll changes 🎲
 Random polls are now *fully* anonymous and no longer include the "So-and-so asks" message 🙅 Protect your privacy! Polls now also feature a **spicy** button 🥵 to 
 allow updating your Danbooru sensitivity without going into the options menu 🌶️ And, if you've ever been curious about the artist/source of a picture, random polls
-now link to that information on Danbooru 🔗 *This will also be included for custom polls in a future update* 🎨
+now link to that information on Danbooru 🔗 *This will also be included for custom polls in a future update* 🎉
 
 ## 🔮 What's next? 🔮
 That's all for now, Valentine 💘, but the work never ends 👷‍♀️🏗️ The next big release will include a feature I'm *super* excited about, but I'm not ready to share what
